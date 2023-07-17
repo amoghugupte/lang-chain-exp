@@ -1,0 +1,9 @@
+jupyterlab
+matplotlib
+pandas
+scikit-learn
+seaborn
+streamlit
+numpy
+openai
+tiktoken
